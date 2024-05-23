@@ -92,5 +92,8 @@
   <ItemGroup>
     <None Include="Resources\Rocket Thrusters-SoundBible.com-1432176431.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
